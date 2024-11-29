@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Trencmivront
-- 👀 I’m interested in programming languages and AI structures
-- 🌱 I’m currently learning codding in C
+- 👀 I’m interested in video games, AI and developing applications
+- 🌱 I’m currently learning programming in Phyton
 - 📫 You can contact me via e-mail or social media accounts
-- ⚡ Fun fact: I didn't use AI to write this sentence
+- ⚡ Be aware, there is an eye next to another one
 
 <!---
 Trencmivront/Trencmivront is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
