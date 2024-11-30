@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trencmivront
 - 👀 I’m interested in video games, AI and developing applications
-- 🌱 I’m currently learning programming in Phyton
+- 🌱 I’m currently learning programming in Python
 - 📫 You can contact me via e-mail or social media accounts
 - ⚡ Be aware, there is an eye next to another one
 
