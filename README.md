@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trencmivront
-- 👀 I’m interested in video games, AI and developing applications
-- 🌱 I’m currently learning programming in Python
-- 📫 You can contact me via e-mail or social media accounts
+- I need to find something to write here
+- 🌱 I learn
+- 🗿 This rock has a face
 - ⚡ Be aware, there is an eye next to another one
 
 <!---
