@@ -67,9 +67,9 @@ This guy is actually a student management app[.](https://www.youtube.com/watch?v
 ## 🎮 Fun Zone
 
 ### 🔄 Random Dev Quote  
-Click to refresh:
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&rand=1)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&rand=${RANDOM})
+
 
 ### What I'm Doing Now
   watching you
