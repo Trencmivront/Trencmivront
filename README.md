@@ -2,6 +2,12 @@
 
 <p align="center">
   <b>Java Developer • UI/UX Enthusiast • Problem Solver</b>
+  
+![Badge](https://img.shields.io/badge/Java-Swing-blue)
+![Badge](https://img.shields.io/badge/Debugging-Ninja-green)
+![Badge](https://img.shields.io/badge/Coffee-Powered-brown)
+![Badge](https://img.shields.io/badge/Mad-TF2_Player-orange)
+
 </p>
 
 ---
@@ -34,7 +40,7 @@ Click to explore:
 ## 📂 Featured Projects
 
 ### 🧪 [H2test](https://github.com/Trencmivront/H2test)  
-This guy is actually a student management app
+This guy is actually a student management app[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
@@ -65,8 +71,12 @@ Click to refresh:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😀 Random Meme
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31p3c6cxyr2cfgqmeski723xfwxq&cover_image=true&theme=default)
+### What I'm Doing Now
+  watching you
+
+### 🎮 Steam
+[![Steam Profile](https://img.shields.io/badge/Steam-Yilmaz-blue?logo=steam)](https://steamcommunity.com/profiles/76561199042127114/)
+
 
 ---
 
