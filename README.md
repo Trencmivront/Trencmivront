@@ -66,7 +66,8 @@ Click to refresh:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🐍 Snake Game (Your contribution graph becomes a snake!)  
-![snake gif](https://github.com/Trencmivront/Trencmivront/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Trencmivront/Trencmivront/output/github-contribution-grid-snake.svg)
+
 
 ---
 
