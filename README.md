@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Trencmivront 👋</h1>
+<h1 align="center">Hey there, I'm Yılmaz 👋</h1>
 
 <p align="center">
   <b>Java Developer • UI/UX Enthusiast • Problem Solver</b>
