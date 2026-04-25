@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Yılmaz 👋</h1>
 
 <p align="center">
-  <b>Java Developer • UI/UX Enthusiast • Problem Solver</b>
+  <b>Full-Stack Java Developer • Spring Boot Enthusiast • Problem Solver</b>
   
-![Badge](https://img.shields.io/badge/Java-Swing-blue)
+![Badge](https://img.shields.io/badge/Java-Spring_Boot-blue)
 ![Badge](https://img.shields.io/badge/Debugging-Ninja-green)
 ![Badge](https://img.shields.io/badge/Coffee-Powered-brown)
 ![Badge](https://img.shields.io/badge/Mad-TF2_Player-orange)
@@ -28,10 +28,11 @@ Click to explore:
 
 | Category | Tools |
 |---------|--------|
-| **Languages** | Java, C++ |
-| **UI/UX** | Swing |
-| **Backend** | JDBC, File I/O |
-| **Other** | Git, OOP, Debugging |
+| **Languages** | Java, C++, Python |
+| **Backend** | Spring Boot, JDBC, File I/O |
+| **Frontend** | Swing, HTML, CSS |
+| **Databases** | H2, SQL |
+| **Other** | Git, OOP, IoT (ESP32), Debugging |
 
 </div>
 
@@ -39,8 +40,17 @@ Click to explore:
 
 ## 📂 Featured Projects
 
+### 🏥 [Hospital Web System](https://github.com/Trencmivront/Hospital-Web-System)  
+A comprehensive full-stack healthcare management platform. Patients can view appointments, treatments, and bills. Admins manage doctor information and system settings.
+
+### 📝 [Blog](https://github.com/Trencmivront/blog)  
+A personal blog platform built with Spring Boot. Modern web application for sharing thoughts and insights.
+
+### 🔌 [ESP32 Readings](https://github.com/Trencmivront/esp32-readings)  
+Real-time sensor data from ESP32 microcontroller displayed on a web interface. IoT meets web development!
+
 ### 🧪 [H2test](https://github.com/Trencmivront/H2test)  
-This guy is actually a student management app[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+A Java application using Swing library and H2 database for testing and management[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
@@ -57,10 +67,11 @@ This guy is actually a student management app[.](https://www.youtube.com/watch?v
 ---
 
 ## 🎯 Current Goals
-- Build polished, real-world Java desktop apps  
-- Improve responsive UI design  
-- Share educational repos for beginners  
-- Keep my GitHub active (i hope) and fun  
+- Build polished, production-ready Java applications  
+- Master Spring Boot for scalable backend systems
+- Create responsive, user-friendly interfaces  
+- Share educational repositories for beginners  
+- Keep my GitHub active and fun  
 
 ---
 
@@ -70,20 +81,20 @@ This guy is actually a student management app[.](https://www.youtube.com/watch?v
 
 [![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&rand=1)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&rand=${RANDOM})
 
-
 ### What I'm Doing Now
-  watching you
+  watching you 👀
 
 ### 🎮 Steam
 [![Steam Profile](https://img.shields.io/badge/Steam-Yilmaz-blue?logo=steam)](https://steamcommunity.com/profiles/76561199042127114/)
 
-
 ---
 
 ## 📫 Contact  
-If you enjoy clean UI, Java, or debugging weird bugs, feel free to reach out!
+If you enjoy clean code, Java, Spring Boot, or debugging mysterious bugs, feel free to reach out!
+
 ---
-> Quick note: This profile made by Microsoft Copilot AI. Because I don't know how to make it. Well, I didn't say I'm an expert of .md files. Btw, the link on the H2test header, I added that. Helll yea you heard that right.
+
+> Quick note: This profile was created with help from Microsoft Copilot AI. I may not be a Markdown expert, but I can definitely code! 💻
 <!---
 Trencmivront/Trencmivront is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
