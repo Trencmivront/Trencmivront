@@ -82,7 +82,7 @@ A Java application using Swing library and H2 database for testing and managemen
   watching you 👀
 
 ### 🎮 Steam
-[![Steam Profile](https://img.shields.io/badge/Steam-Yilmaz-blue?logo=steam)](https://steamcommunity.com/profiles/76561199042127114/)
+[![Steam Profile](https://img.shields.io/badge/Steam-Trencmivront-blue?logo=steam)](https://steamcommunity.com/profiles/76561199042127114/)
 
 ---
 
