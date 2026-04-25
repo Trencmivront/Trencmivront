@@ -28,10 +28,10 @@ Click to explore:
 
 | Category | Tools |
 |---------|--------|
-| **Languages** | Java, C++, Python |
-| **Backend** | Spring Boot, JDBC, File I/O |
+| **Languages** | Java, C++, Python, JS, SQL |
+| **Backend** | Spring Boot, JDBC, PHP, File I/O |
 | **Frontend** | Swing, HTML, CSS |
-| **Databases** | H2, SQL |
+| **Databases** | H2, MySQL, ORACLE |
 | **Other** | Git, OOP, IoT (ESP32), Debugging |
 
 </div>
@@ -45,9 +45,6 @@ A comprehensive full-stack healthcare management platform. Patients can view app
 
 ### 📝 [Blog](https://github.com/Trencmivront/blog)  
 A personal blog platform built with Spring Boot. Modern web application for sharing thoughts and insights.
-
-### 🔌 [ESP32 Readings](https://github.com/Trencmivront/esp32-readings)  
-Real-time sensor data from ESP32 microcontroller displayed on a web interface. IoT meets web development!
 
 ### 🧪 [H2test](https://github.com/Trencmivront/H2test)  
 A Java application using Swing library and H2 database for testing and management[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -95,6 +92,7 @@ If you enjoy clean code, Java, Spring Boot, or debugging mysterious bugs, feel f
 ---
 
 > Quick note: This profile was created with help from Microsoft Copilot AI. I may not be a Markdown expert, but I can definitely code! 💻
+> That quick note above was also created by Copilot while I asked it to not touch everything.
 <!---
 Trencmivront/Trencmivront is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
